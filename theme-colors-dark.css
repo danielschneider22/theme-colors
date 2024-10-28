@@ -1,0 +1,25 @@
+:root {
+  --bg-color: #1B1F23;
+  --header-color: #1A252F;
+  --footer-color: #2C3E50;
+  
+  --button-padding: 10px 20px;
+  --button-primary-color: #3498DB;
+  --button-primary-color-hover: #2980B9;
+  --button-secondary-color: #2980B9;
+  --button-secondary-color-hover: #1A6FA5;
+
+  --font-color: #ECF0F1;
+  
+  /* Card Variables */
+  --card-bg-color: #2C3E50;
+  --card-border-color: #34495E;
+  --card-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+  
+  /* Input Variables */
+  --input-bg-color: #3A3F44;
+  --input-border-color: #34495E;
+  --input-padding: 10px;
+  --input-placeholder-color: #7F8C8D;
+  --input-focus-border-color: #3498DB;
+}
