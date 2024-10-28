@@ -1,0 +1,11 @@
+:root {
+  --bg-color: #F4F6F8;
+  --header-color: #2C3E50;
+  --card-box-shadow: 0 5px 5px rgb(0,0,0,.1);
+  --button-primary-color: #2980B9;
+  --button-primary-color-hover: #1A6FA5;
+  --button-secondary-color: #3498DB;
+  --button-secondary-color-hover: #2B8CCC;
+  --font-color: #2C3E50;
+  --footer-color: #34495E;
+}
